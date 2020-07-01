@@ -1,4 +1,4 @@
-# Repository made for students for git learning
+# Assignment for online class
 
 # Steps to follow
 1. Everyone is required to fork this repo
